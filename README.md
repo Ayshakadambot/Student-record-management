@@ -1,9 +1,7 @@
-Student Record Management System
-This is a Command-Line Interface (CLI) application for managing student records, developed for the Elevate Labs Java Developer Internship Program, Task 2. The project focuses on practicing core Java concepts such as classes, collections (
+Student Record Management System:
+This is a Command-Line Interface (CLI) application for managing student records, developed for the Elevate Labs Java Developer Internship Program, Task 2. The project focuses on practicing core Java concepts such as classes, collections (ArrayList), loops, and encapsulation.
 
-ArrayList), loops, and encapsulation.
-
-Features
+Features:
 The system allows users to perform the following operations:
 
 Add a new student record.
